@@ -6,5 +6,3 @@ git commit -m "adding message"
 
 git push origin master
 git pull origin master
-
-why are these changes not visible in github
