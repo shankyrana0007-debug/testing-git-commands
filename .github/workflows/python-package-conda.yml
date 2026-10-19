@@ -1,0 +1,11 @@
+name: first job
+on: push
+jobs:
+    first-job:
+        runs-on: ubuntu-latest
+        steps:
+            - name: na
+              run: echo "Hello World"
+            - name: na 1
+              run: echo "bye bye tata"
+        
